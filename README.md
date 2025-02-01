@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-I am a web front-end developer based in Osaka.
+I'm a web front-end developer based in Osaka.
 
 ## Languages
 
-<img alt="my skills" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,php" />
+<img alt="my skills" src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,php" />
 
 ## Libraries & Frameworks
 
-<img alt="my skills" src="https://go-skill-icons.vercel.app/api/icons?i=react,next,jest,testinglibrary,playwright,redux,laravel,astro,wordpress,jquery,graphql" />
+<img alt="my skills" src="https://go-skill-icons.vercel.app/api/icons?i=react,next,redux,laravel,astro,wordpress,jquery,jest,testinglibrary,playwright" />
 
 ## 🏃‍♀️ Activities
 
