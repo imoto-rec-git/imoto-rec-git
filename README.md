@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a web front-end developer based in Osaka, Japan.
+I am a web front-end developer based in Osaka.
 
 ## Languages
 
